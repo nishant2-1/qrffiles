@@ -1,0 +1,21 @@
+Quartus Prime Archive log --	C:/Quartus_Installer/TRAFFICFPGA-main/TrafficLight.qarlog
+
+Archive:	C:/Quartus_Installer/TRAFFICFPGA-main/TrafficLight.qar
+Date:		Tue May  5 22:51:18 2026
+Quartus Prime		25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Quartus_Installer/TRAFFICFPGA-main/TRAFFICFPGA-main/TrafficLightFPGA/src/ClockDivider.v
+C:/Quartus_Installer/TRAFFICFPGA-main/TRAFFICFPGA-main/TrafficLightFPGA/src/CoreLogic.v
+C:/Quartus_Installer/TRAFFICFPGA-main/TRAFFICFPGA-main/TrafficLightFPGA/src/CounterUnit.v
+C:/Quartus_Installer/TRAFFICFPGA-main/TRAFFICFPGA-main/TrafficLightFPGA/src/Decoder.v
+C:/Quartus_Installer/TRAFFICFPGA-main/TRAFFICFPGA-main/TrafficLightFPGA/src/MainCode.v
+C:/Quartus_Installer/TRAFFICFPGA-main/TRAFFICFPGA-main/TrafficLightFPGA/src/SevenSegDisplay.v
+C:/Quartus_Installer/TRAFFICFPGA-main/TrafficLight.qpf
+C:/Quartus_Installer/TRAFFICFPGA-main/TrafficLight.qsf
+C:/Quartus_Installer/TRAFFICFPGA-main/Waveform.vwf
+c:/quartus_installer/quartus/bin64/assignment_defaults.qdf
+	======= Total: 10 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
